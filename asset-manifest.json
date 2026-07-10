@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mohamedsalah-dev2007/shoes-store.git/static/css/main.e6c13ad2.css",
+    "main.js": "/mohamedsalah-dev2007/shoes-store.git/static/js/main.3ed3c273.js",
+    "static/js/453.2b7c74bc.chunk.js": "/mohamedsalah-dev2007/shoes-store.git/static/js/453.2b7c74bc.chunk.js",
+    "index.html": "/mohamedsalah-dev2007/shoes-store.git/index.html",
+    "main.e6c13ad2.css.map": "/mohamedsalah-dev2007/shoes-store.git/static/css/main.e6c13ad2.css.map",
+    "main.3ed3c273.js.map": "/mohamedsalah-dev2007/shoes-store.git/static/js/main.3ed3c273.js.map",
+    "453.2b7c74bc.chunk.js.map": "/mohamedsalah-dev2007/shoes-store.git/static/js/453.2b7c74bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3ed3c273.js"
+  ]
+}
